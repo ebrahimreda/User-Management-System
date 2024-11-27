@@ -17,4 +17,5 @@ The User Management System is a Python application that allows users to register
 ## How to Use
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/ebrahimreda/UserManagementSystem.git
+   git clone https://github.com/ebrahimreda/User-Management-System.git
+
